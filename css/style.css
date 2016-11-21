@@ -1,0 +1,12 @@
+.body{
+	background-color: #ffffff;
+	margin-right: auto;
+	margin:left;
+}
+.navbar-default{
+	border-color: #ffffff !important;
+	border: 2px 2px 2px 2px;
+}
+.rowOne{
+	background-color: #DF5D4A;
+}
